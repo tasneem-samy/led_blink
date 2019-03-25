@@ -81,6 +81,6 @@ int main(void)
 //	  }
 	  GPIOA->ODR ^=(GPIO_ODR_ODR_5);
 	  delay_us(100000);
-	  
+	//added new line  
   }
 }
