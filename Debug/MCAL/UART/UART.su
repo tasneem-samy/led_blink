@@ -1,0 +1,4 @@
+UART.c:9:6:UART_Init	40	static
+UART.c:28:6:UART_PutC	16	static
+UART.c:32:15:UART_GetC	4	static
+UART.c:36:6:UART_PutStr	24	static
